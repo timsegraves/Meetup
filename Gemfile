@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'rake'
+# gem 'cocoapods'
+# gem 'motion-cocoapods'
+gem 'teacup'
+gem 'sugarcube'
+gem 'sweettea'
+gem 'bubble-wrap'
+gem 'geomotion'
